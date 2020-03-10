@@ -17,15 +17,19 @@ MonoBehaviour:
     levelName: Tutorial
     isCompleted: 0
     completionTime: 0
-  - levelBuildIndex: 2
+  - levelBuildIndex: 3
     levelName: Lava 1
     isCompleted: 0
     completionTime: 0
-  - levelBuildIndex: 3
+  - levelBuildIndex: 4
     levelName: Lava 2
     isCompleted: 0
     completionTime: 0
-  - levelBuildIndex: 4
+  - levelBuildIndex: 5
     levelName: Lava 3
+    isCompleted: 0
+    completionTime: 0
+  - levelBuildIndex: 2
+    levelName: BunnyHop Tutorial
     isCompleted: 0
     completionTime: 0

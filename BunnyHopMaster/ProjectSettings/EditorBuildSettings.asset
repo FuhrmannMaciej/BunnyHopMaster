@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Tutorial.unity
     guid: f62e10f8a5ca3cb4682cdd2973f2982a
   - enabled: 1
+    path: Assets/Scenes/BunnyHopTutorial.unity
+    guid: 7bbb2c352085a604b916343fc200c555
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 9aa26a1007ceb104b8d7ce10f17d2517
   - enabled: 1
